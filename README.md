@@ -23,7 +23,7 @@ Bienvenue dans le projet **Gestion des Codes-Barres** ! Cette application WPF (W
    Clonez ce projet dans votre environnement local avec Git.
 
    ```bash
-   git clone https://github.com/votre-utilisateur/gestion-codes-barres.git
+   git clone https://github.com/rodrigueantunes/gestion-codes-barres.git
    ```
 
 2. **Ouvrir dans Visual Studio** :
@@ -64,8 +64,3 @@ Bienvenue dans le projet **Gestion des Codes-Barres** ! Cette application WPF (W
 ## Licence
 
 Ce projet est sous Licence MIT. Vous pouvez l'utiliser, le modifier et le distribuer librement.
-
-## À Propos
-
-Ce projet est conçu pour offrir une gestion optimale des codes-barres avec des fonctionnalités modernes et flexibles. Si vous avez des suggestions ou des demandes de fonctionnalités, n'hésitez pas à contribuer ou à ouvrir une issue sur le projet !
-
