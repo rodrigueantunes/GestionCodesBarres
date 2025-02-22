@@ -40,6 +40,8 @@ Bienvenue dans le projet **Gestion des Codes-Barres** ! Cette application WPF (W
 
 ## Utilisation
 
+![Gestion code barre](https://github.com/user-attachments/assets/6f18ab22-7777-4d8a-ac66-e4b7c0809a89)
+
 ### Ajouter un Code
 
 1. Entrez un code-barres et sa description dans les champs respectifs.
@@ -54,8 +56,6 @@ Bienvenue dans le projet **Gestion des Codes-Barres** ! Cette application WPF (W
 
 1. Cliquez sur **Générer PDF** pour créer un fichier PDF contenant tous les codes-barres et descriptions de la liste.
 2. Vous avez la possibilité d'ajouter des logos personnalisés via les boutons **Logo Client** et **Logo Société**.
-
-![Gestion code barre](https://github.com/user-attachments/assets/6f18ab22-7777-4d8a-ac66-e4b7c0809a89)
 
 ### Déplacer des Codes
 
