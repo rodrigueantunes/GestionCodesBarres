@@ -40,7 +40,7 @@ Bienvenue dans le projet **Gestion des Codes-Barres** ! Cette application WPF (W
 
 ## Utilisation
 
-![Gestion code barre](https://github.com/user-attachments/assets/6f18ab22-7777-4d8a-ac66-e4b7c0809a89)
+![Gestion code barre](https://github.com/user-attachments/assets/cb54ad90-615d-4914-b2de-e5f418ceda15)
 
 ### Ajouter un Code
 
