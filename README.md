@@ -1,4 +1,4 @@
-```markdown
+
 # Gestion des Codes-Barres - Application WPF
 
 Bienvenue dans le projet **Gestion des Codes-Barres** ! Cette application WPF (Windows Presentation Foundation) permet de gérer efficacement des codes-barres et leurs descriptions, tout en offrant des fonctionnalités avancées telles que la génération de PDF, l'importation de fichiers CSV et la gestion de logos personnalisés. Idéale pour les professionnels et les entreprises qui ont besoin de manipuler et documenter des codes-barres de manière fluide et pratique.
